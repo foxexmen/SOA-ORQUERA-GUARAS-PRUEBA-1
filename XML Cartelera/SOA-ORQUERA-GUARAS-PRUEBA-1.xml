@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartelera>
+    <película código="p1" año="2019">
+        <título>Avengers: Endgame</título>
+        <duración>
+            <horas>3</horas>
+            <minutos>1</minutos>
+            <segundos>0</segundos>
+        </duración>
+        <género>Ciencia ficción</género>
+        <clasificación edad="PG-13"/>
+        <director id="1">
+            <nombre>Anthony</nombre>
+            <apellido>Russo</apellido>
+            <fechaNacimiento>
+                <año>1970</año>
+                <mes>02</mes>
+                <día>03</día>
+            </fechaNacimiento>
+        </director>
+        <director id="2">
+            <nombre>Joe</nombre>
+            <apellido>Russo</apellido>
+            <fechaNacimiento>
+                <año>1971</año>
+                <mes>07</mes>
+                <día>18</día>
+            </fechaNacimiento>
+        </director>
+        <reparto>
+            <actoresPrincipales>
+                <actorPrincipal id="1">
+                    <nombresOriginales>Robert Downey Jr.</nombresOriginales>
+                    <nombreEnPelicula>Tony Stark / Iron Man</nombreEnPelicula>
+                </actorPrincipal>
+                <actorPrincipal id="2">
+                    <nombresOriginales>Chris Evans</nombresOriginales>
+                    <nombreEnPelicula>Capitán América</nombreEnPelicula>
+                </actorPrincipal>
+                <actorPrincipal id="3">
+                    <nombresOriginales>Scarlett Johansson</nombresOriginales>
+                    <nombreEnPelicula>Natasha Romanoff / Viuda Negra</nombreEnPelicula>
+                </actorPrincipal>
+                <actorPrincipal id="4">
+                    <nombresOriginales>Chris Hemsworth</nombresOriginales>
+                    <nombreEnPelicula>Thor</nombreEnPelicula>
+                </actorPrincipal>
+                <actorPrincipal id="5">
+                    <nombresOriginales>Mark Ruffalo</nombresOriginales>
+                    <nombreEnPelicula>Bruce Banner / Hulk</nombreEnPelicula>
+                </actorPrincipal>
+                <actorPrincipal id="6">
+                    <nombresOriginales>Josh Brolin</nombresOriginales>
+                    <nombreEnPelicula>Thanos</nombreEnPelicula>
+                </actorPrincipal>
+                <actorPrincipal id="7">
+                    <nombresOriginales>Tom Holland</nombresOriginales>
+                    <nombreEnPelicula>Peter Parker / Spider-Man</nombreEnPelicula>
+                </actorPrincipal>
+            </actoresPrincipales>
+            <actoresSecundarios>
+                <actorSecundario id="1">
+                    <nombresOriginales>Karen Gillan</nombresOriginales>
+                    <nombreEnPelicula>Nebula</nombreEnPelicula>
+                </actorSecundario>
+                <actorSecundario id="2">
+                    <nombresOriginales>Bradley Cooper</nombresOriginales>
+                    <nombreEnPelicula>Rocket</nombreEnPelicula>
+                </actorSecundario>
+                <actorSecundario id="3">
+                    <nombresOriginales>Letitia Wright</nombresOriginales>
+                    <nombreEnPelicula>Shuri</nombreEnPelicula>
+                </actorSecundario>
+                <actorSecundario id="4">
+                    <nombresOriginales>Chadwick Boseman</nombresOriginales>
+                    <nombreEnPelicula>T'Challa / Black Panther</nombreEnPelicula>
+                </actorSecundario>
+            </actoresSecundarios>
+            <dobles>
+                <doble id="1">
+                    <nombresOriginales>Bobby Holland</nombresOriginales>
+                    <aquienSustituye>Chris Hemsworth</aquienSustituye>
+                </doble>
+            </dobles>
+        </reparto>
+        <sinopsis> 
+            Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.
+        </sinopsis>
+    </película>
+</cartelera>
